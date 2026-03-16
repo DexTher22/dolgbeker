@@ -1,5 +1,5 @@
 /*
-* File: Main.java
+* File: Getlist.java
 * Author: Magyar Márk
 * Copyright: 2026, Magyar Márk
 * Group: Szoft I/N
