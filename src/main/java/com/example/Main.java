@@ -14,7 +14,7 @@ import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Szit.hu 0721-es feladat megoldása." + "\n" + "Készítette: Szabó József, Szoft I/N, 2026.03.16");
+ 
         ArrayList<Double> value = Getlist.getValues();
         Solution.task01(value);
     }
